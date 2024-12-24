@@ -34,5 +34,5 @@ love working with modern web technologies like React, Tailwind CSS, Firebase, an
 <br/>
 <hr/>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact" height=150 />
 </p>
