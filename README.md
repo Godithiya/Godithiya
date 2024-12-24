@@ -1,38 +1,69 @@
-# <summary><strong>Hi there :wave: , I'm Godithiya!</strong></summary>
+# <h1 align="center">Hi there, I'm <span style="color:#a594f9">Godithiya</span>! ✨</h1>
 
-Passionate about coding and always eager to learn, I believe that technology is a powerful tool to solve real-world problems. <br/>My journey as a web developer has been fueled by curiosity and a desire to create impactful solutions through code.
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A594F9&center=true&vCenter=true&width=450&lines=Passionate+Web+Developer;Exploring+Modern+Technologies;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</div>
 
-love working with modern web technologies like React, Tailwind CSS, Firebase, and Supabase, continuously exploring how they can bring ideas to life.
+---
 
+### ✯ About Me
 
-### <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <br/>
-    <img src="https://img.shields.io/badge/-React-gray?style=flat-square&logo=react" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-</p>
+> **"Technology is a powerful tool to solve real-world problems."**  
 
+- 💻 **Frontend Enthusiast:** Building responsive and interactive web applications.
+- ✨ **Modern Tools:** React, Tailwind CSS, Firebase, Supabase.
+- 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
+- ⚽ **Hobbies:** Gaming and reading to relax and find inspiration.
 
-### <summary><strong>Yosh!</strong></summary>
+---
 
-<p>
-    - :keyboard: I’m currently learning Frontend Dev. </br>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:anggaadithiya@gmail.com">Email me!</a>  </br>
-    - :cloud: Pronouns: he/him. </br>
-    - :game_die: Gaming and Reading are part of me. </br>
-<p>
+### 🛠 Tech Stack & Tools
 
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/godithiya/">
-  <img align="left" alt="Godithiya's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<br/>
-<hr/>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact" height=150 />
-</p>
+<div align="center">
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+    <img src="https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+
+---
+
+### 🚀 What I'm Currently Doing
+
+- ⚖️ **Learning:** Mastering Frontend Development with futuristic designs.
+- 👤 **Collaborating:** Open to exciting new projects and challenges.
+- 📧 **Reach Me:** [anggaadithiya@gmail.com](mailto:anggaadithiya@gmail.com)
+
+---
+
+### 🌍 Let's Connect
+
+<div align="center">
+    <a href="https://www.instagram.com/godithiya/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="mailto:anggaadithiya@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+</div>
+
+---
+
+### 🌟 GitHub Stats
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=radical" alt="GitHub Streak Stats" />
+</div>
+
+---
+
+### 🌟 Fun Fact
+
+Did you know? **Futuristic UI designs with clean, vibrant gradients can boost user engagement!**
