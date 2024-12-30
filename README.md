@@ -14,10 +14,11 @@
 - ✨ **Modern Tools:** React, Tailwind CSS, Firebase, Supabase.
 - 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
 - ⚽ **Hobbies:** Gaming and reading to relax and find inspiration.
+- cihuy!
 
 ---
 
-### 🛠 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
 <div align="center">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
