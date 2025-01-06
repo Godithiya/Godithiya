@@ -14,6 +14,7 @@
 - ✨ **Modern Tools:** React, Tailwind CSS, Firebase, Supabase.
 - 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
 - ⚽ **Hobbies:** Gaming and reading to relax and find inspiration.
+- cihuyy
 
 ---
 
