@@ -13,7 +13,6 @@
 - 💻 **Frontend Enthusiast:** Building responsive and interactive web applications.
 - ✨ **Modern Tools:** React, Tailwind CSS, Firebase, Supabase.
 - 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
-- ⚽ **Hobbies:** Gaming and reading to relax and find inspiration.
 
 ---
 
@@ -33,6 +32,7 @@
 ### 🚀 What I'm Currently Doing
 
 - ⚖️ **Learning:** Mastering Frontend Development with futuristic designs.
+- ✨ **Also Interested:** Learning Backend Service.
 - 👤 **Collaborating:** Open to exciting new projects and challenges.
 - 📧 **Reach Me:** [anggaadithiya@gmail.com](mailto:anggaadithiya@gmail.com)
 
