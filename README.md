@@ -54,12 +54,12 @@
 ### 🌟 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=radical" height="180" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=nord" height="180" alt="Top Languages"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=radical" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=nord" alt="GitHub Streak Stats" />
 </div>
 
 ---
