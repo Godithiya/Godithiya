@@ -54,7 +54,7 @@
 ### 🌟 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/> -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=nord" height="180" alt="Top Languages"/>
 </div>
 
