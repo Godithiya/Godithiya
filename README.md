@@ -1,7 +1,7 @@
 # <h1 align="center">Hi there, I'm <span style="color:#a594f9">Godithiya</span>! <img src="https://em-content.zobj.net/source/apple/391/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" style="width:24px; height:24px;" /></h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A594F9&center=true&vCenter=true&width=450&lines=Passionate+Web+Developer;Exploring+Modern+Technologies;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=adb5bd&center=true&vCenter=true&width=450&lines=Passionate+Web+Developer;Exploring+Modern+Technologies;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +11,7 @@
 > **"Technology is a powerful tool to solve real-world problems."**  
 
 - 💻 **Frontend Enthusiast:** Building responsive and interactive web applications.
-- ✨ **Modern Tools:** React, Tailwind CSS, Firebase, Supabase.
+- ✨ **Modern Tools:** React, NextJS, TypeScript, Tailwind CSS, Firebase, Supabase.
 - 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
 
 ---
