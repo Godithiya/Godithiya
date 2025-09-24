@@ -48,7 +48,7 @@
         <img src="https://img.shields.io/badge/Email-2e3440.svg?style=for-the-badge&logo=gmail&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Email"/>
     </a>
       <a href="https://www.linkedin.com/in/angga-adithiya-146b51366" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=728eab&labelColor=2e3440&color=2e3440e" alt="Linkedin"/>
+        <img src="https://img.shields.io/badge/LinkedIn-2e3440.svg?style=for-the-badge&logo=linkedin&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Linkedin"/>
     </a>
 </div>
 
