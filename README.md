@@ -6,7 +6,7 @@
 
 ---
 
-### ✯ About Me
+### 📺 About Me
 
 > **"Technology is a powerful tool to solve real-world problems."**  
 
@@ -47,7 +47,7 @@
     <a href="mailto:anggaadithiya@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Email-2e3440.svg?style=for-the-badge&logo=gmail&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Email"/>
     </a>
-      <a href="https://www.linkedin.com/in/angga-adithiya-146b51366" target="_blank">
+    <a href="https://www.linkedin.com/in/angga-adithiya-146b51366" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-2e3440.svg?style=for-the-badge&logo=linkedin&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Linkedin"/>
     </a>
 </div>
@@ -57,10 +57,13 @@
 ### 🌟 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=nord" alt="GitHub Streak Stats" />
+</div>
+    <br/>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=nord" height="180" alt="Top Languages"/>
 </div>
-
+    <br/>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=nord" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/>
 </div>
