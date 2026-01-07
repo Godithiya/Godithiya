@@ -16,19 +16,6 @@
 
 ---
 
-### 🛠 Tech Stack & Tools
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-2e3440.svg?style=for-the-badge&logo=visual-studio-code&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="VS Code"/>
-    <img src="https://img.shields.io/badge/React-2e3440.svg?style=for-the-badge&logo=react&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="React"/>
-    <img src="https://img.shields.io/badge/HTML5-2e3440.svg?style=for-the-badge&logo=html5&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-2e3440.svg?style=for-the-badge&logo=css3&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/JavaScript-2e3440.svg?style=for-the-badge&logo=javascript&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Tailwind_CSS-2e3440.svg?style=for-the-badge&logo=tailwind-css&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Tailwind CSS"/>
-</div>
-
----
-
 ### 🚀 What I'm Currently Doing
 
 - ⚖️ **Learning:** Mastering Frontend Development with futuristic designs.
