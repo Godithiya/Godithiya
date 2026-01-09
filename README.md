@@ -11,7 +11,7 @@
 > **"Technology is a powerful tool to solve real-world problems."**  
 
 - 💻 **Frontend Enthusiast:** Building responsive and interactive web applications.
-- ✨ **Modern Tools:** React, NextJS, TypeScript, Tailwind CSS, Firebase, Supabase.
+- ✨ **Modern Tools:** React JS, NextJS, TypeScript, Node JS, Express JS, Go-Lang Tailwind CSS, Firebase, Supabase, Neon DB, Postgresql, MySQL.
 - 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
 
 ---
