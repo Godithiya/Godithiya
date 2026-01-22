@@ -38,19 +38,3 @@
         <img src="https://img.shields.io/badge/LinkedIn-2e3440.svg?style=for-the-badge&logo=linkedin&logoColor=728eab&labelColor=2e3440&color=2e3440" alt="Linkedin"/>
     </a>
 </div>
-
----
-
-### 🌟 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=godithiya&theme=nord" alt="GitHub Streak Stats" />
-</div>
-    <br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godithiya&layout=compact&theme=nord" height="180" alt="Top Languages"/>
-</div>
-    <br/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=godithiya&show_icons=true&theme=nord" height="180" alt="GitHub Stats"/>
-</div>
