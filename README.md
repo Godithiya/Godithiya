@@ -6,26 +6,7 @@
 
 ---
 
-### 📺 About Me
-
-> **"Technology is a powerful tool to solve real-world problems."**  
-
-- 💻 **Frontend Enthusiast:** Building responsive and interactive web applications.
-- ✨ **Modern Tools:** React JS, NextJS, TypeScript, Node JS, Express JS, Go-Lang, Tailwind CSS, Firebase, Supabase, Neon DB, Postgresql, MySQL.
-- 📖 **Continuous Learner:** Passionate about exploring new technologies and improving skills.
-
----
-
-### 🚀 What I'm Currently Doing
-
-- ⚖️ **Learning:** Mastering Frontend Development with futuristic designs.
-- ✨ **Also Interested:** Learning Backend Service.
-- 👤 **Collaborating:** Open to exciting new projects and challenges.
-- 📧 **Reach Me:** [anggaadithiya@gmail.com](mailto:anggaadithiya@gmail.com)
-
----
-
-### 🌍 Let's Connect
+### <h2 align="center">Let's Connect</h2>
 
 <div align="center">
     <a href="https://www.instagram.com/godithiya/" target="_blank">
